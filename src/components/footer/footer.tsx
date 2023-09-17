@@ -10,7 +10,7 @@ export const Footer = ()=>(
       <span className={styles.rights}>All rights reserved</span>
     </div>
     <div className={styles.attContainer}>
-      <span className={styles.att}>Coded by <a href='https://www.linkedin.com/in/leandro-gehlen-61159738/' target='_blank'>Leandro Gehlen</a></span>
+      <span className={styles.att}>Coded by <a href='https://github.com/Leandro-Gehlen/tia-rosa-cafeteria' target='_blank'>Leandro Gehlen</a></span>
     </div>
   </footer>
 )
