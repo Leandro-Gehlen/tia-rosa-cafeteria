@@ -1,3 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+
 .main{
   min-height: calc(100vh - 150px);
+  display: block;
+  position: relative;
   }
+
+.ctaContainer{
+  position: absolute;
+  z-index:1;
+  display: block;
+
+  top: 50px;
+  left: 200px;
+  background-color: rgba(0,0,0,.4);
+  padding: 50px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+
+}
+
+.text1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 100px;
+  font-weight: 700;
+  color:white;
+  opacity: 1;
+}
+.text2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 100px;
+  font-weight: 700;
+  color:#F97068;
+  opacity: 1;
+}

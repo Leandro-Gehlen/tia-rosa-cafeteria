@@ -8,25 +8,16 @@
   padding: 10px;
   border: 2px solid #B0B7B3;
   background-color: white;
+  height: 100px;
 }
-.logo{
-  display: flex;
-  align-items: center;
-  gap:10px;
-  font-family: 'Dancing Script', cursive;
-  font-size: 22px;
-  margin-left: 200px;
-}
-.logo:hover{
-  cursor:pointer;
-}
+
 
 .menu{
   display: flex;
   align-items: center;
   gap:40px;
   font-family: 'Dancing Script', cursive;
-  font-size: 22px;
+  font-size: 32px;
   margin-right: 200px;
   list-style-type: none;
   text-decoration: none;

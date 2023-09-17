@@ -2,4 +2,48 @@
   height: 150px;
   width: 100%;
   background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap:20px;
+}
+
+.rights{
+  font-family: 'Dancing Script', cursive;
+  font-size: 32px;
+  color: #F97068;
+}
+.copy{
+
+  margin-right:10px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 32px;
+  color: #F97068;
+}
+
+.att{
+  
+  font-family: "roboto";
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+  
+
+}
+
+.rightsContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-right:200px;
+ 
+
+}
+
+.attContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

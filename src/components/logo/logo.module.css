@@ -1,0 +1,12 @@
+.logo{
+  display: flex;
+  align-items: center;
+  gap:10px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 32px;
+  margin-left: 200px;
+  color: #F97068;
+}
+.logo:hover{
+  cursor:pointer;
+}
